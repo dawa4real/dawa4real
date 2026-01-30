@@ -3,21 +3,21 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=System.out.println(%22Dawa+For+Real%22);Searching+for+vulnerabilities...;600+Stars+Legacy;Building+the+Shadow+Infrastructure." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=System.out.println(%22Dawa+For+Real%22);600+%E2%AD%90+Impact+Legacy;Analyzing+vulnerabilities...;Learning+the+Shadow+Arts+of+Code." alt="Typing SVG" />
 </p>
 
 ---
 
 # ⚡ [ Status: Active ]
-> **"Le code est mon arme, la faille est ma porte."**
+> **"Décortiquer le code et la cyber pour maîtriser chaque faille et devenir meilleur."**
 
-* 🔴 **Focus :** Étudie l'architecture logicielle et le Pentesting.
-* 💀 **Specialty :** Touche-à-tout, j'apprends à briser les barrières du code.
-* 📈 **Track Record :** +600 stars cumulées (ex-Dawa Tools).
+* 🔴 **Focus :** Étudie l'informatique sous tous ses angles.
+* 💀 **Specialty :** Pentesting & Sécurité offensive.
+* 📈 **Legacy :** Plus de **600 stars** récoltées sur mes projets (notamment *Dawa-Tools*).
 
 ---
 
-# 🛠 Arsenal & Tools
+# 🛠 Arsenal & Skills
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,lua,linux,kali,bash,discord,vscode,github&theme=dark" />
 </p>
@@ -51,5 +51,5 @@
 </p>
 
 <p align="right">
-  <img src="https://visitcount.itsvg.in/api?id=dawa4real&icon=1&color=5" />
+  <img src="https://visitcount.itsvg.in/api?id=dawa4real&icon=5&color=1" />
 </p>
