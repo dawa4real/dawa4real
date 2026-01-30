@@ -24,7 +24,13 @@
 
 ---
 
-# 📊 System Metrics
+---
+
+# 📊 System Metrics & Impact
+<p align="center">
+  <img src="https://img.shields.io/badge/Dawa--Tools-512%20Stars%20%E2%AD%90-red?style=for-the-badge&logo=github" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dawa4real&show_icons=true&theme=blood&hide_border=false&title_color=FF0000&text_color=ffffff&icon_color=FF0000" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dawa4real&theme=blood&hide_border=false&fire=FF0000&ring=FF0000" width="48%" />
