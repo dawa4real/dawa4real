@@ -13,7 +13,7 @@
 
 * 🔴 **Focus :** Étudie l'informatique sous tous ses angles.
 * 💀 **Specialty :** Pentesting & Sécurité offensive.
-* 📈 **Legacy :** Plus de **512 stars** récoltées sur le projet *Dawa-Tools*.
+* 📈 **Legacy :** **512 stars** récoltées sur le projet *Dawa-Tools*.
 
 ---
 
@@ -24,21 +24,7 @@
 
 ---
 
----
-
-# 📊 System Metrics & Impact
-<p align="center">
-  <img src="https://img.shields.io/badge/Dawa--Tools-512%20Stars%20%E2%AD%90-red?style=for-the-badge&logo=github" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dawa4real&show_icons=true&theme=blood&hide_border=false&title_color=FF0000&text_color=ffffff&icon_color=FF0000" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dawa4real&theme=blood&hide_border=false&fire=FF0000&ring=FF0000" width="48%" />
-</p>
-
----
-
-# 🕸 Activity Graph
+# 🕸 Activity Graph | 512 ⭐ Impact
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dawa4real&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </p>
