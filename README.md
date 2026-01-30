@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=System.out.println(%22Dawa+For+Real%22);512+%E2%AD%90+on+Dawa-Tools;Analyzing+vulnerabilities...;Learning+the+Shadow+Arts+of+Code." alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=red&height=100&section=header" />
+</p>
+
 ---
 
 # ⚡ [ Status: Active ]
@@ -23,6 +27,14 @@
 </p>
 
 ---
+
+# 🐍 Contribution Snake (Red Version)
+<p align="center">
+  <img src="https://github-readme-snake.vercel.app/api/snake?github=dawa4real&outputs=svg(color_snake=red&color_dots=000000,111111,550000,990000,ff0000)" alt="snake" />
+</p>
+
+---
+
 # 🚀 Stars !
 
 <p align="center">
@@ -30,9 +42,15 @@
 </p>
 
 <p align="center">
-  <img src="star.png" />
+  <img src="star.png" width="450px" style="border-radius: 10px; border: 2px solid #FF0000;" />
 </p>
 
 <p align="center">
   <font color="red"><b>Record : 512 ⭐ sur Dawa-Tools (Legacy)</b></font>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=red&height=100&section=footer" />
 </p>
