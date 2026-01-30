@@ -24,13 +24,14 @@
 
 ---
 
-# 🕸 GLOBAL IMPACT & ACTIVITY
 <p align="center">
-  <img src="https://img.shields.io/badge/TOTAL%20IMPACT-512%20STARS%20REACHED-red?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/TOTAL%20IMPACT-512%20STARS-red?style=for-the-badge&logo=github" />
 </p>
 
-# 🕸 IMPACT : 512 ⭐ STARS (DAWA-TOOLS)
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dawa4real&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </p>
----
+
+<p align="center">
+  <font color="red"><b>Record : 512 ⭐ sur Dawa-Tools (Legacy)</b></font>
+</p>
