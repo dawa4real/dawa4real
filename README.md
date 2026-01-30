@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dawa4real&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&area=true&hide_border=true" width="100%" />
+  <img src="star.png" />
 </p>
 
 <p align="center">
