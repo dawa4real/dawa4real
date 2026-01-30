@@ -24,9 +24,9 @@
 
 ---
 
-# 🕸 Global Impact & Activity
+# 🕸 GLOBAL IMPACT & ACTIVITY
 <p align="center">
-  <img src="https://img.shields.io/badge/DELETED%20PROJECT%20IMPACT-512%20STARS-red?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/TOTAL%20IMPACT-512%20STARS%20REACHED-red?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <p align="center">
@@ -34,7 +34,3 @@
 </p>
 
 ---
-
-<p align="right">
-  <img src="https://visitcount.itsvg.in/api?id=dawa4real&icon=5&color=1" />
-</p>
