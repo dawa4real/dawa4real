@@ -13,7 +13,7 @@
 
 * 🔴 **Focus :** Étudie l'informatique sous tous ses angles.
 * 💀 **Specialty :** Pentesting & Sécurité offensive.
-* 📈 **Legacy :** Plus de **600 stars** récoltées sur mes projets (notamment *Dawa-Tools*).
+* 📈 **Legacy :** Plus de **512 stars** récoltées sur mes projets (notamment *Dawa-Tools*).
 
 ---
 
