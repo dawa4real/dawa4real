@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-<ims src="dawa_banner.jpg"
+<img src="dawa_banner.jpg"
