@@ -43,6 +43,3 @@
 
 <p align="center">
 
-  <font color="red"><b>Record : 512 ⭐ sur Dawa-Tools (Legacy)</b></font>
-
-</p>
