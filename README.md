@@ -40,9 +40,6 @@
 
 ---
 
-<p align="right">
-  <img src="https://visitcount.itsvg.in/api?id=dawa4real&icon=5&color=1" />
-</p>
 
 <p align="center">
 
