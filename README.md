@@ -28,7 +28,7 @@
 
 * 💀 **Specialty :** Pentesting & Sécurité offensive.
 
-* 📈 **Legacy :** **512 stars** récoltées sur le projet *Dawa-Tools*.
+* 📈 **Legacy :** **512 stars** sur le projet *Dawa-Tools*.
 
 
 
