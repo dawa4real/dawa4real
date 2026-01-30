@@ -24,7 +24,11 @@
 
 ---
 
-# 🕸 Activity Graph | 512 ⭐ Impact
+# 🕸 Global Impact & Activity
+<p align="center">
+  <img src="https://img.shields.io/badge/DELETED%20PROJECT%20IMPACT-512%20STARS-red?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dawa4real&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </p>
